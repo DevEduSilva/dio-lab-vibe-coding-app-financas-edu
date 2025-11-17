@@ -138,7 +138,7 @@ Prints abaixo:
 
 ![Conversa 1 com a IA](./prints/telaLogin.png)
 ![Conversa 2 com a IA](./prints/telaCadastro.png)
-![Demonstração do MVP](./prints/videoSistema.gif)
+![Demonstração do MVP](./prints/VideoSistema.gif)
 
 
 ---
