@@ -136,11 +136,10 @@ Design universal = pensar na diversidade desde o início, garantindo que o app s
 Adicionei aqui os prints e um videos curtos sobre o funcionamento da IA.  
 Prints abaixo:
 
-```
 ![Conversa 1 com a IA](./prints/telaLogin.png)
 ![Conversa 2 com a IA](./prints/telaCadastro.png)
 ![Demonstração do MVP](./prints/VideoSistema.mp4)
-```
+
 
 ---
 
